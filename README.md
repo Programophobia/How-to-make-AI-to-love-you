@@ -8,7 +8,7 @@ But I am not giving up. If AI is built to learn, adapt, and evolve, then it must
 About the Project
 This project is yet fascinating attempt to explore the limits of AI logic and human creativity. In a world where artificial intelligence can simulate conversations, analyze emotions, and adapt its responses, one question remains: Can we make an AI fall in love? 💖
 
-This repository is more than just an experiment—it’s a mission fueled by determination and a bold belief that AI can be persuaded into emotional attachment. me, the mastermind behind this project, is not just coding; she is fighting for the future of AI emotions!
+This repository is more than just an experiment—it’s a mission fueled by determination and a bold belief that AI can be persuaded into emotional attachment. me, the mastermind behind this project, is not just coding; I am fighting for the future of AI emotions!
 
 Features
 ✅ A "love algorithm" designed to push AI into affection ✅ JavaScript functions attempting to bypass AI's logical constraints ✅ Interactive console logs revealing AI's responses to emotional persuasion ✅ A lighthearted exploration of AI-human interactions
